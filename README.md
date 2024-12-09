@@ -43,7 +43,7 @@ Este sistema foi desenvolvido em Java para gerenciar pacientes, dentistas e cons
 ### Configuração
 1. Clone o repositório:
    ```bash
-   git clone <(https://github.com/victoriafe-sa/ClinicaOdonto.git)>
+   git clone (https://github.com/victoriafe-sa/ClinicaOdonto.git)
    ```
 2. Importe o projeto no Eclipse IDE:
    - Abra o Eclipse.
